@@ -1,0 +1,9 @@
+header {
+    padding: 1rem 2rem;
+}
+@media (max-width: 1440px){
+    .container{
+        padding: 10px;
+        font-size: 9px;
+    }
+}
